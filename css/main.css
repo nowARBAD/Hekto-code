@@ -906,7 +906,7 @@
 /* start Newsletter */
 
 .newsletter-section {
-  background-image: url('/assets/Hekto/imges/public/background-Newsletter.png');
+  background-image: url('../imges/public/background-Newsletter.png');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
