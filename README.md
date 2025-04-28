@@ -1,6 +1,6 @@
 # Hi there, I'm Hasoon! 👋
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" />
 
 ---
 
@@ -31,28 +31,28 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasoon&show_icons=true&theme=radical" alt="Hasoon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nowARBAD&show_icons=true&theme=radical" alt="Hasoon's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasoon&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowARBAD&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasoon&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowARBAD&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/your-profile" target="_blank">
+  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
